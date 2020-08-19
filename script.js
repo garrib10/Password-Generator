@@ -20,7 +20,7 @@ console.log (specialArray);
 
 function askForOptions() {
   console.log("ask about password")
-  var length = parseInt(prompt("how long do you want your password to be"));
+  var length = parseInt(prompt("How long do you want your password to be"));
   console.log(length)
 
   if(isNaN(length)) {
@@ -35,10 +35,10 @@ function askForOptions() {
     alert ("is more than 128");
     return;
   }
-  isNum = confirm("would you like numbers")
-  isLower = confirm ("would you like lower case letters ")
-  isUpper = confirm ("would you like upper case letters ")
-  isSpecial = confirm ("Would you like to use special letters")
+  isNum = confirm("Would you like to use numbers?")
+  isLower = confirm ("Would you like to use lower case letters? ")
+  isUpper = confirm ("Would you like to use upper case letters? ")
+  isSpecial = confirm ("Would you like to use special characters?")
 
   if(isNum === false && isLower === false && isUpper === false && isSpecial === false){
     alert ("Please select one character type");
