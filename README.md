@@ -1,3 +1,5 @@
+## [Password Generator] ( https://garrib10.github.io/Password-Generator/.)
+
 # Password-Generator
 
 For this assignment we were told to make a password generator with certain requirements. The password length between 8-128 characters. With that being said, the password could contain lowercase,uppercase,numeric,and special characters. You are able to choose which ones you want with the different confirms questions. After that the password generator will generate a password that you are looking for. The whole purpose of this assignment was to get comfortable with the using the different function that we learned in class in Javascript. We are provided with standard code for index.html, style.css and script.js files. Hope you have fun using my password generator! 
