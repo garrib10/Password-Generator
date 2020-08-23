@@ -19,3 +19,5 @@ The Acceptance Criteria is the following:
 - THEN a password is generated that matches the selected criteria
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
+
+<img width="1440" alt="Screen Shot 2020-08-22 at 11 42 26 PM" src="https://user-images.githubusercontent.com/68867054/90970318-7d514f80-e4d1-11ea-9ad4-5cfa1e516227.png">
