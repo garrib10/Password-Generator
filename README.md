@@ -20,8 +20,11 @@ The Acceptance Criteria is the following:
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
 
- Link to Deployed Site: [Password-Generator]  ( https://garrib10.github.io/Password-Generator/)
+ Link to Deployed Site: [PasswordGenerator]  (https://garrib10.github.io/Password-Generator/.)
 
  <img width="1440" alt="Screen Shot 2020-08-22 at 11 42 26 PM" src="https://user-images.githubusercontent.com/68867054/90970318-7d514f80-e4d1-11ea-9ad4-5cfa1e516227.png">
+
+ <img width="1174" alt="Screen Shot 2020-09-27 at 6 18 30 PM" src="https://user-images.githubusercontent.com/68867054/94377246-e25e1d80-00ed-11eb-8142-e353a660b3fe.png">
+
 
 
